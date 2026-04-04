@@ -18,7 +18,6 @@ Atualmente no 2º semestre, focado em construir uma base sólida em desenvolvime
 - **Linguagens:** Java, SQL, JavaScript.
 - **Frameworks/Libs:** Spring Boot, Node.js, React.
 - **Ferramentas:** Power BI, Git/GitHub, SQL Server.
-- **Processos:** Modelagem com Bizagi (BPMN).
 
 ---
 
@@ -29,5 +28,6 @@ Atualmente no 2º semestre, focado em construir uma base sólida em desenvolvime
 ---
 
 ## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/filipe-viana-dev))
-[![Portfólio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://filipesep.github.io/portfolio/)
+## 🔗 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/filipe-viana-dev))
+[![Portfolio](https://img.shields.io/badge/Meu_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://filipesep.github.io/portfolio/)
