@@ -14,7 +14,6 @@ Atualmente no 2º semestre, focado em construir uma base sólida em desenvolvime
 
 ---
 
-## 🛠️ Skills
 ### 🛠️ Skills
 [![Minhas Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,react,node)](https://skillicons.dev)
 ---
