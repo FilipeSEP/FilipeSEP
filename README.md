@@ -14,11 +14,9 @@ Atualmente no 2º semestre, focado em construir uma base sólida em desenvolvime
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Java, SQL, JavaScript.
-- **Frameworks/Libs:** Spring Boot, Node.js, React.
-- **Ferramentas:** Power BI, Git/GitHub, SQL Server.
-
+## 🛠️ Skills
+### 🛠️ Skills
+[![Minhas Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,react,node)](https://skillicons.dev)
 ---
 
 
