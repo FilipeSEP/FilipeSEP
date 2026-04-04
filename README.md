@@ -22,6 +22,5 @@ Atualmente no 2º semestre, focado em construir uma base sólida em desenvolvime
 ---
 
 ## 📫 Vamos nos conectar?
-## 🔗 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-viana-dev)
 [![Portfolio](https://img.shields.io/badge/Meu_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://filipesep.github.io/portfolio/)
