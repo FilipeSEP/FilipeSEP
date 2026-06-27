@@ -7,7 +7,6 @@ Atualmente no 2º semestre, focado em construir uma base sólida em desenvolvime
 ---
 
 ## 💻 Sobre Mim
-- 🚀 Atualmente desenvolvendo o **ByteFit** (App de nutrição e treinos).
 - 🛠️ Trabalhando em projetos Fullstack para meu portfólio.
 - 📊 Interessado em **Engenharia de Dados**, **Business Intelligence** (Power BI), **Desenvolvimento FullStack** e **IA**.
 - 🌱 Aprendendo cada vez mais sobre o ecossistema **Java + Spring Boot**.
