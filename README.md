@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 2º semestre de Ciência da Computação
+- 🎓 3º semestre de Ciência da Computação
 - 💻 Construindo projetos Fullstack para o meu portfólio
 - 📊 Interesse crescente em **Engenharia de Dados**, **BI** e **IA**
 - 🌱 Aprofundando cada vez mais em **Java · Spring Boot · React**
