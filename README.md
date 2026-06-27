@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/qEJEhTLXZ7AAAAAd/shikamaru-naruto.gif" width="300" alt="Shikamaru thinking"/>
+  <img src="https://media1.tenor.com/m/qEJEhTLXZ7AAAAAd/shikamaru-naruto.gif" width="500" alt="Shikamaru thinking"/>
 
   # Oi, eu sou o Filipe! 👋
   
