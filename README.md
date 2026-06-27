@@ -29,8 +29,8 @@
 | Projeto | Descrição |
 |---|---|
 | [Portfólio](https://filipesep.github.io/portfolio/) | Meu portfólio pessoal |
-| [Temporal](https://filipesep.github.io/temporal/) | 🔗 |
-| [UNI-Pets](https://filipesep.github.io/UNI-Pets/) | 🔗 |
+| [Temporal](https://filipesep.github.io/temporal/) | 🔗 App de Previsão do Tempo |
+| [UNI-Pets](https://filipesep.github.io/UNI-Pets/) | 🔗 E-commerce FullStack |
 
 ---
 
